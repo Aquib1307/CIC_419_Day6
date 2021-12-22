@@ -7,4 +7,4 @@ do
   result=$(( $a/$i ))
   echo " $a/$i " 
 done
-
+echo " the sum of H = $sum "
